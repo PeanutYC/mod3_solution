@@ -47,14 +47,11 @@ Page Heading. The page heading that says Our Menu should be centered within the 
 Create a single really tall section that will use the Bootstrap Grid and take up the entire width of the browser window (minus some margins, of course) for all views: desktop, tablet, and mobile. To make the section really tall, you can either fill it out with a LOT of text or simply set its height to something like 1000px. It needs to be tall enough to cause scrolling down to be required to view the bottom of the section. Make sure its background color is set to distinguish it from the rest of the content. (Hint: don't forget to have an element with a class='container' or class='container-fluid' wrapping your grid. Remember that to have the grid do something "always", i.e., no matter what browser window size, use the col-xs-... classes. In this case, since we want the section to take up the entire row, use col-xs-12.)
 
 Both the tablet view and the desktop view of what's graded and required is the same. Here is the mockup illustration of the desktop & tablet version of the site (only required graded parts shown):
-
-Desktop and Tablet
+![alt text](https://github.com/jhu-ep-coursera/fullstack-course4/raw/master/assignments/assignment3/images/desktop.png)
 
 Here is the mockup illustration of the mobile view (only required graded parts are shown):
-
-mobile collapsed
-
-mobile expanded
+![alt text](https://github.com/jhu-ep-coursera/fullstack-course4/raw/master/assignments/assignment3/images/menu-collapsed.png)
+![alt text](https://github.com/jhu-ep-coursera/fullstack-course4/raw/master/assignments/assignment3/images/mobile-expanded.png)
 
 *** REQUIRED GRADED ASSIGNMENT ENDS HERE ***
 
@@ -96,11 +93,10 @@ MOCKUP ILLUSTRATIONS ARE BELOW:
 Please NOTE: these mockup illustrations show parts that are optional and not graded for this assignment. Please refer to the requirements above to confirm what parts of the mockup are required and graded and what parts are optional.
 
 Here is the mockup illustration of the desktop version of the site: Desktop - optional
+![alt text](https://github.com/jhu-ep-coursera/fullstack-course4/raw/master/assignments/assignment3/images/desktop-optional.png)
 
 Here is the mockup illustration of the tablet version of the site:
-
-Tablet - optional
+![alt text](https://github.com/jhu-ep-coursera/fullstack-course4/raw/master/assignments/assignment3/images/tablet-optional.png)
 
 Here is the mockup illustration of the mobile version of the site with the menu dropdown NOT open (on the left) and menu drop down open (on the right):
-
-Mobile - Optional (Closed) Mobile - Optional (Open)
+![alt text](https://github.com/jhu-ep-coursera/fullstack-course4/raw/master/assignments/assignment3/images/mobile-optional-expanded.png)
