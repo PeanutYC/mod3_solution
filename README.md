@@ -99,4 +99,5 @@ Here is the mockup illustration of the tablet version of the site:
 ![alt text](https://github.com/jhu-ep-coursera/fullstack-course4/raw/master/assignments/assignment3/images/tablet-optional.png)
 
 Here is the mockup illustration of the mobile version of the site with the menu dropdown NOT open (on the left) and menu drop down open (on the right):
+
 ![alt text](https://github.com/jhu-ep-coursera/fullstack-course4/raw/master/assignments/assignment3/images/mobile-optional-expanded.png)
